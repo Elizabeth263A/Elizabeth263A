@@ -7,7 +7,7 @@ Actualmente me especializo en **JavaScript**, **Node.js** y **React**, y tambié
 
 ## 💻 Habilidades
 
-- **Frontend:** HTML5, CSS3, JavaScript, React (básico)
+- **Frontend:**  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) , ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), JavaScript, React (básico)
 - **Backend:** Node.js, Express, MongoDB (básico)
 - **Herramientas:** Git, GitHub, VSCode, Postman
 - **Idiomas:** Español (nativo), Inglés (básico)
