@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Elizabeth 👋
 
-<!--
-**Elizabeth263A/Elizabeth263A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora web full stack en formación, apasionada por crear proyectos útiles y con diseño lindo y minimalista.  
+Actualmente me especializo en **JavaScript**, **Node.js** y **React**, y también estoy mejorando mi inglés
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades
+
+- **Frontend:** HTML5, CSS3, JavaScript, React (básico)
+- **Backend:** Node.js, Express, MongoDB (básico)
+- **Herramientas:** Git, GitHub, VSCode, Postman
+- **Idiomas:** Español (nativo), Inglés (básico)
+
+---
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+¡Gracias por pasar por mi perfil! 🌸
+
